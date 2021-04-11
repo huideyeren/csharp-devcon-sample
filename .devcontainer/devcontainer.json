@@ -71,8 +71,6 @@
 		"richardzampieriprog.csharp-snippet-productivity"
 	],
 
-	"workspaceMount": "source=/home/vscode/workspaces,target=/workspaces,type=bind,consistency=cached",
-
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
 	"forwardPorts": [5000, 5001],
 
